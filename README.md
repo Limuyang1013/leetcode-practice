@@ -9,3 +9,4 @@ Top 100 Liked Questions in LeetCode
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | 68.3% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/3) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | 56.7% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/4) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | 56.6% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/5) | Easy |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | 54.8% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/6) | Easy |
