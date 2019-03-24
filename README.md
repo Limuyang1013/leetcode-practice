@@ -10,3 +10,4 @@ Top 100 Liked Questions in LeetCode
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | 56.7% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/4) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | 56.6% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/5) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | 54.8% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/6) | Easy |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 36.1% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/7) | Easy |
