@@ -15,3 +15,4 @@ Top 100 Liked Questions in LeetCode
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 44.5% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/9) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 54.7% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/10) | Easy |
 | 283 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | 83.3% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/11) | Easy |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/jewels-and-stones/) | 53.7% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/12) | Easy |
