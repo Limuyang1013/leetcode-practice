@@ -13,3 +13,4 @@ Top 100 Liked Questions in LeetCode
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 36.1% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/7) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 46.3% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/8) | Easy |
 | 21 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 44.5% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/9) | Easy |
+| 21 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 54.7% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/9) | Easy |
