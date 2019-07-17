@@ -18,3 +18,4 @@ Top 100 Liked Questions in LeetCode
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 53.7% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/12) | Easy |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | 37.7% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/13) | Easy |
 | 438 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 44.0% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/14) | Easy |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 43.8% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/15) | Easy |
