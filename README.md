@@ -19,5 +19,5 @@ Top 100 Liked Questions in LeetCode
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | 37.7% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/13) | Easy |
 | 438 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 44.0% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/14) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 43.8% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/15) | Easy |
-| 121 | [Symmetric Tree](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 47.7% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/16) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 47.7% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/16) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 37.4% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/17) | Easy |
