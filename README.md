@@ -25,3 +25,4 @@ Top 100 Liked Questions in LeetCode
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 34.6% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/19) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 53.3% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/20) | Easy |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | 41.2% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/21) | Easy |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 55.8% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/22) | Easy |
