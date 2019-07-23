@@ -26,3 +26,4 @@ Top 100 Liked Questions in LeetCode
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 53.3% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/20) | Easy |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | 41.2% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/21) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 55.8% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/22) | Easy |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 36.5% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/23) | Easy |
