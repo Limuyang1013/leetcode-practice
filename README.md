@@ -30,3 +30,4 @@ Top 100 Liked Questions in LeetCode
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 30.3% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/24) | Easy |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | 51.7% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/25) | Easy |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 47.1% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/26) | Easy |
+| 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | 43.3% | [solution](https://github.com/Limuyang1013/leetcode-practice/issues/27) | Easy |
